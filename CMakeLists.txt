@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.0)
 
-project(upd LANGUAGES CXX)
+project(debug_axix_ctrl LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
